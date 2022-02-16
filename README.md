@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @sujatad97
 - 👀 I’m interested in Data Analysis
-- 🌱 I’m currently learning0Python
+- 🌱 I’m currently learnin Python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
